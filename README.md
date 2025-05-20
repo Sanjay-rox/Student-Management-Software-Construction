@@ -1,1 +1,1 @@
-This is student management project. 
+SOFTWARE CONSTRUCTION---LAB
